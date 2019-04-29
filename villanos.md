@@ -1,4 +1,5 @@
 # Villanos
 
 * Dr. Doom
-* Res School
+* Red School
+* Capitán America
